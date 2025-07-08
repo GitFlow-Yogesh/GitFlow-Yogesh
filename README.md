@@ -8,7 +8,7 @@
 - 👨‍💻 I’m currently working on: **AI StudyMate** — a full-stack MERN project to explore AI tools  
 - 📚 I regularly practice DSA using Java in my repo: [dsa-java-solutions](https://github.com/GitFlow-Yogesh/dsa-java-solutions)  
 - 🌱 Currently learning: **System Design, MongoDB Aggregation, & Advanced DSA**  
-- 📫 How to reach me: `bharatrao5024@gmail.com`
+- 📫 How to reach me: `yogeshrao5024@gmail.com`
 
 ---
 
