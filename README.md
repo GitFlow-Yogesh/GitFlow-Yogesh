@@ -28,6 +28,8 @@
 
 - 🔥 [AI StudyMate](https://github.com/GitFlow-Yogesh/ai-studymate)  
   A full-stack platform for discovering & liking AI tools. Includes login, likes, categories, and subscriptions.
+- 🎓 [Student Course Management](https://github.com/GitFlow-Yogesh/StudentCourseManagement)  
+  Java-based CLI project for managing student registration, course enrollment, and grade tracking using file storage.
 
 - 📘 [DSA Java Solutions](https://github.com/GitFlow-Yogesh/dsa-java-solutions)  
   Daily DSA practice categorized by topic — trees, heaps, stacks, recursion, Mo’s algorithm, and more.
