@@ -48,7 +48,7 @@
 
 ### ✨ Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yogesh-yadav-7307341b6)
+- 💼 [LinkedIn](https://linkedin.com/in/yogesh-yadav24)
 - 🌐 [GitHub](https://github.com/GitFlow-Yogesh)
 
 ---
